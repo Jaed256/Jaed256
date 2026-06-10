@@ -1,16 +1,17 @@
-## Hi there 👋
+## Hi, I'm Jaed Pizarro 👋
 
-<!--
-**Jaed256/Jaed256** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Computer Science undergrad at **Florida International University**, building at the intersection of **computer science and neuroscience** — simulators, graph tools, and systems that make biological signaling legible.
 
-Here are some ideas to get you started:
+- 🔬 Research intern in molecular dynamics at FIU's SRI
+- 🎯 Headed toward a PhD in CS + Neuroscience
+- 🛠️ Building citation-backed scientific tools
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Tech
+
+`TypeScript` · `React / Next.js` · `Java` · `Python` · `MySQL` · `Tailwind CSS`
+
+### Featured projects
+
+**[SysDope](https://github.com/Jaed256/sysdope)** — interactive, citation-backed simulator of the dopamine pathway. Drag substrates through enzymes, throttle the kinetics, and watch known failure modes emerge — backed by live data from PubChem, UniProt, Rhea, and Europe PMC. *Next.js 16 · React 19 · TypeScript*
+
+**[NeuroGraph](https://github.com/Jaed256/neurograph)** — command-line tool that models neural signaling pathways as a directed graph in MySQL. Adjacency list, BFS/DFS traversal, shortest path, and cycle detection all built from scratch. *Java · MySQL*
