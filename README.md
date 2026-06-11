@@ -15,7 +15,7 @@
 ### 🧠 What I'm working on now
 
 - 🔬 Molecular dynamics research at FIU's Student Research Initiative
-- 👨‍🏫 Teaching intro web development with CodePath
+- 👨‍🏫 Teaching intro web development
 - ⚙️ Building citation-backed scientific tools (see the featured projects below)
 - 🎓 Aiming for a PhD at the intersection of CS + Neuroscience
 
